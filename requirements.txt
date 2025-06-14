@@ -10,3 +10,6 @@ tqdm
 markdown
 python-multipart
 setuptools
+playwright
+beautifulsoup4
+markdownify
